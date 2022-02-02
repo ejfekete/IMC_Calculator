@@ -2,7 +2,7 @@
 
 Repositório com o intuito de calcular o IMC de uma pessoa conforme os parametros passados.
 
-Dev: Rodrigo Bighetti
+Dev: Estevao Fekete
 
 ## Stacks
 
@@ -12,6 +12,6 @@ Dev: Rodrigo Bighetti
 
 ## Execução
 
-1 - Clonar o [repositório](https://github.com/robighetti/calculadoraIMC.git) \
+1 - Clonar o [repositório](https://github.com/ejfekete/IMC_Calculator) \
 
 2 - Executar o calculadora.html no browser
